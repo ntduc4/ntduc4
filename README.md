@@ -54,3 +54,14 @@ Databases
 Authentication
 Infrastructure
 Developer Tools
+````
+
+## Featured projects
+
+* [**Dynamic Leaderboard Maker**](https://github.com/ntduc4/AnyLeaderboard) — customizable leaderboard system with users, entries, verification, and permissions.
+* [**Real-time Chat App**](https://github.com/ntduc4/Noncord) — chat platform with servers, channels, authentication, notifications, and integrations.
+* [**Self-hosting Tools**](https://github.com/ntduc4/Homelab) — scripts and services for managing personal infrastructure.
+
+## Migration note
+
+Some repositories were ported from my previous GitHub account, so older commits may show under previous author information depending on the repository history.
