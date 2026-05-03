@@ -16,7 +16,12 @@ This profile is where I keep my projects, experiments, and notes as I continue b
 - Building reliable backend services in Go
 - Exploring distributed systems, messaging, and orchestration
 - Improving my self-hosted infrastructure
-- Shipping projects that are useful enough for real users
+
+## Future plans
+
+- Exploring low level concepts through making my own RTOS kernel
+- Get into high frequency trading through optimizing data structures in C++
+- Potentially create a Tetris neural network
 
 ## Tech I use
 
