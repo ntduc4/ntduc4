@@ -30,8 +30,8 @@ This profile is where I keep my projects, experiments, and notes as I continue b
 ## GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NEW_USERNAME_HERE&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NEW_USERNAME_HERE&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ntduc4&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntduc4&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 <p align="center">
