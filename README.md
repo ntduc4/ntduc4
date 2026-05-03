@@ -3,25 +3,19 @@
 I recently moved my repositories over to this new GitHub account.  
 This profile is where I keep my projects, experiments, and notes as I continue building.
 
-## What I like building
+## What I like doing
 
 - Backend systems and APIs
 - Distributed systems and real-time applications
 - Self-hosted tools and infrastructure
 - Go services, Docker setups, and database-backed apps
-- Developer tools that solve real problems
-
-## Current focus
-
-- Building reliable backend services in Go
-- Exploring distributed systems, messaging, and orchestration
-- Improving my self-hosted infrastructure
 
 ## Future plans
 
 - Exploring low level concepts through making my own RTOS kernel
 - Get into high frequency trading through optimizing data structures in C++
 - Potentially create a Tetris neural network
+- Get into desktop developement with Rust and Tauri
 
 ## Tech I use
 
@@ -43,24 +37,11 @@ This profile is where I keep my projects, experiments, and notes as I continue b
   <img src="https://streak-stats.demolab.com?user=ntduc4&theme=tokyonight&hide_border=true" />
 </p>
 
-## Some areas I'm interested in
-
-```txt
-Backend Architecture
-Distributed Systems
-Self Hosting
-Real-time Applications
-Databases
-Authentication
-Infrastructure
-Developer Tools
-````
-
 ## Featured projects
 
-* [**Dynamic Leaderboard Maker**](https://github.com/ntduc4/AnyLeaderboard) — customizable leaderboard system with users, entries, verification, and permissions.
-* [**Real-time Chat App**](https://github.com/ntduc4/Noncord) — chat platform with servers, channels, authentication, notifications, and integrations.
-* [**Self-hosting Tools**](https://github.com/ntduc4/Homelab) — scripts and services for managing personal infrastructure.
+* [**Dynamic Leaderboard Maker**](https://github.com/ntduc4/AnyLeaderboard): customizable leaderboard system with users, entries, verification, and permissions.
+* [**Real-time Chat App**](https://github.com/ntduc4/Noncord): chat platform with servers, channels, authentication, notifications, and integrations.
+* [**Self-hosting stack**](https://github.com/ntduc4/Homelab): scripts and services for managing personal infrastructure.
 
 ## Migration note
 
