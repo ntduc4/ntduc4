@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Duc 👋
 
-<!--
-**ntduc4/ntduc4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I recently moved my repositories over to this new GitHub account.  
+This profile is where I keep my projects, experiments, and notes as I continue building.
 
-Here are some ideas to get you started:
+## What I like building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Backend systems and APIs
+- Distributed systems and real-time applications
+- Self-hosted tools and infrastructure
+- Go services, Docker setups, and database-backed apps
+- Developer tools that solve real problems
+
+## Current focus
+
+- Building reliable backend services in Go
+- Exploring distributed systems, messaging, and orchestration
+- Improving my self-hosted infrastructure
+- Shipping projects that are useful enough for real users
+
+## Tech I use
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+## GitHub stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NEW_USERNAME_HERE&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NEW_USERNAME_HERE&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=NEW_USERNAME_HERE&theme=tokyonight&hide_border=true" />
+</p>
+
+## Some areas I'm interested in
+
+```txt
+Backend Architecture
+Distributed Systems
+Self Hosting
+Real-time Applications
+Databases
+Authentication
+Infrastructure
+Developer Tools
