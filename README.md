@@ -35,7 +35,7 @@ This profile is where I keep my projects, experiments, and notes as I continue b
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=NEW_USERNAME_HERE&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=ntduc4&theme=tokyonight&hide_border=true" />
 </p>
 
 ## Some areas I'm interested in
