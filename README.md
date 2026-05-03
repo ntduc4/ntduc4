@@ -39,10 +39,6 @@ This profile is where I keep my projects, experiments, and notes as I continue b
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ntduc4&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ntduc4&theme=tokyonight&hide_border=true" />
-</p>
-
 ## Featured projects
 
 * [**Dynamic Leaderboard Maker**](https://github.com/ntduc4/AnyLeaderboard): customizable leaderboard system with users, entries, verification, and permissions.
