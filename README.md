@@ -1,7 +1,8 @@
 # Hi, I'm Duc 👋
 
 I recently moved my repositories over to this new GitHub account.  
-This profile is where I keep my projects, experiments, and notes as I continue building.
+This GitHub account is mainly a **backup and mirror** for my [self-hosted Forgejo repositories](https://git.ntduc.org).  
+Feel free to check my [Forgejo instance](https://git.ntduc.org), although most repos should be replicate here.
 
 ## What I like doing
 
