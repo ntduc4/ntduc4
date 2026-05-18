@@ -14,7 +14,6 @@ Feel free to check my [Forgejo instance](https://git.ntduc.org/ntduc), which is 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## GitHub stats
 ## GitHub summary
 
 <p align="center">
