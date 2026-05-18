@@ -1,22 +1,8 @@
 # Hi, I'm Duc 👋
 
 I recently moved my repositories over to this new GitHub account.  
-This GitHub account is mainly a **backup and mirror** for my [self-hosted Forgejo repositories](https://git.ntduc.org/ntduc).  
-Feel free to check my [Forgejo instance](https://git.ntduc.org/ntduc), although most repos should be replicate here.
-
-## What I like doing
-
-- Backend systems and APIs
-- Distributed systems and real-time applications
-- Self-hosted tools and infrastructure
-- Go services, Docker setups, and database-backed apps
-
-## Future plans
-
-- Exploring low level concepts through making my own RTOS kernel
-- Get into high frequency trading through optimizing data structures in C++
-- Potentially create a Tetris neural network
-- Get into desktop developement with Rust and Tauri
+Old [(now unbanned) account](github.com/thienduc3112) is now used as my archive
+Feel free to check my [Forgejo instance](https://git.ntduc.org/ntduc), which is where my main repos now live in case I get ban again.
 
 ## Tech I use
 
@@ -39,12 +25,6 @@ Feel free to check my [Forgejo instance](https://git.ntduc.org/ntduc), although 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ntduc4&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ntduc4&theme=tokyonight" />
 </p>
-
-## Featured projects
-
-* [**Dynamic Leaderboard Maker**](https://github.com/ntduc4/AnyLeaderboard): customizable leaderboard system with users, entries, verification, and permissions.
-* [**Real-time Chat App**](https://github.com/ntduc4/Noncord): chat platform with servers, channels, authentication, notifications, and integrations.
-* [**Self-hosting stack**](https://github.com/ntduc4/Homelab): scripts and services for managing personal infrastructure.
 
 ## Migration note
 
